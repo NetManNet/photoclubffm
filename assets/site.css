@@ -967,3 +967,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item:not(.lg-zoomable).lg-co
     height: 100% !important;
     object-fit: cover !important;
 }
+#introduction-1 .f1bcn2wz {
+    -webkit-mask-image: none !important;
+    mask-image: none !important;
+}
